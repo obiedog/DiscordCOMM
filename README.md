@@ -14,6 +14,4 @@ When muted and pressed twice quickly the PTT will latch on.
 
 Press Script Input again to unlatch. 
 
-
-
 Just like clearcomm :)
